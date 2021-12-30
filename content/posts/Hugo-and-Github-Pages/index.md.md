@@ -23,7 +23,7 @@ ShowBreadCrumbs: false
 4. Click on **Create Repository**.
 5. Copy the repository url.
 
-![nouveau-repertoire](images/nouveau-repertoire.png)
+<img src="images/nouveau-repertoire.png" alt="nouveau-repertoire" width="200"/>
 
 ## Terminal
 
