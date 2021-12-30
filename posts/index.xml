@@ -19,14 +19,5 @@
       <description>Guide to creat a website with Hugo and hosting with Github Pages</description>
     </item>
     
-    <item>
-      <title>My 1st post</title>
-      <link>https://kangapi.github.io/docs-V4/posts/page/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://kangapi.github.io/docs-V4/posts/page/</guid>
-      <description>Desc Text.</description>
-    </item>
-    
   </channel>
 </rss>

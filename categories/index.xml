@@ -8,25 +8,6 @@
       <url>https://kangapi.github.io/docs-V4/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>https://kangapi.github.io/docs-V4/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 15 Sep 2020 11:30:03 +0000</lastBuildDate><atom:link href="https://kangapi.github.io/docs-V4/categories/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>syntax</title>
-      <link>https://kangapi.github.io/docs-V4/categories/syntax/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://kangapi.github.io/docs-V4/categories/syntax/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>https://kangapi.github.io/docs-V4/categories/themes/</link>
-      <pubDate>Tue, 15 Sep 2020 11:30:03 +0000</pubDate>
-      
-      <guid>https://kangapi.github.io/docs-V4/categories/themes/</guid>
-      <description></description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://kangapi.github.io/docs-V4/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
