@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://kangapi.github.io/kangapi-docs-video/sitemap.xml
+Sitemap: https://kangapi.github.io/docs-V4/sitemap.xml
