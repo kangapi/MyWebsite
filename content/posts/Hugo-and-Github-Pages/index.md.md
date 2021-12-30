@@ -23,7 +23,7 @@ ShowBreadCrumbs: false
 4. Click on **Create Repository**.
 5. Copy the repository url.
 
-![nouveau-repertoire](images/nouveau-repertoire.png)
+![new-repo](images/new-repo.png)
 
 ## Terminal
 
@@ -268,6 +268,15 @@ ShowBreadCrumbs: false
     ```
 4. If we head back onto Github to our repo's page, we should now see a banner informing us that a branch has been updated and providing us with an option to **Compare &pull request**. Click that big green button !
 
+      ![compare-setup-hugo
+](images/compare-setup-hugo.png)
+      * **Click on the green button that has just appeared**
+      ![create-pull-request](images/create-pull-request.png)
+      * **Click on the new button**
+      ![merge-pull-request](images/merge-pull-request.png)
+      * **check if your commit was successfully merged. If so, there should be a purple merged button**
+      ![merged](images/merged.png)
+
 5. In your terminal, run the following:
     ```
     git checkout main # Switch back to the main branch
@@ -376,9 +385,39 @@ ShowBreadCrumbs: false
     ```
     git push origin add-cd
     ```
-7. Create a new pull request like the step 4.
+7. Create a new pull request like the step 4 in [push-to-github](#push-to-github).
+      ![compare-add-cd
+](images/compare-add-cd.png)
+      * **Click on the green button that has just appeared**
+      ![create-pull-request](images/create-pull-request.png)
+      * **Click on the new button**
+      ![action-finish](images/action-finish.png)
+      * **check if your commit was successfully merged. If so, there should be a purple merged button**
+      ![merged](images/merged.png)
+      1. Go in the **actions** menu.
+      2. Click on **Build and Deploy Site**.
+      ![workflows](images/workflows.png)
+      3. You should see a **yellow circle**.
+      ![build-start](images/build-start.png)
+      4. After less than a minute, you should see the circle in **green**.
+      ![build-finish](images/build-finish.png)
+      5. Go in your repository settings in **Branches**
+      6. Click on **Add rule**
+      ![branch](images/branch.png)
+      7. Enter a branch pattern name
+      8. Click on **Require status checks to pass before merging**
+      9. Search **build-and-deploy-site** in the list.
+      10. Click on **Create** !
+      ![branche-rules](images/branche-rules.png)
+      11. Now go in **Pages**
+      12. Select the **gh-pages** branch
+      13. Click on **Save**
+      ![pages](images/pages.png)
+      14. You should see an amazing website !!!!!
+      ![website](images/website.png)
 
-8. Finish with
+
+8. You can finish with
     ```
     git checkout main
     ```
