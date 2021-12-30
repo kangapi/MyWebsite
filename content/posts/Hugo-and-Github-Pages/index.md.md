@@ -4,7 +4,7 @@ title: "Hugo and Github Pages"
 date: "2021-12-29"
 description: "Guide to creat a website with Hugo and hosting with Github Pages"
 #tags: ["emoji"]
-ShowToc: false
+ShowToc: true
 ShowBreadCrumbs: false
 ---
 
