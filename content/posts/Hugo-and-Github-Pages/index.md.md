@@ -2,7 +2,7 @@
 author: "Kangapi"
 title: "Hugo and Github Pages"
 date: "2021-12-29"
-description: "Guide to creat a website with Hugo and hosting with Github Pages"
+description: "Guide to create a website with Hugo and hosting with Github Pages"
 #tags: ["emoji"]
 ShowToc: true
 ShowBreadCrumbs: false
@@ -15,7 +15,7 @@ ShowBreadCrumbs: false
 
 ---
 
-## Creat a Github repository
+## Create a Github repository
 
 1. Go on the page [new repository](https://github.com/new) on Github.
 2. Enter the name of the repository.
