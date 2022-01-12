@@ -30,3 +30,12 @@ ShowBreadCrumbs: false
 
 Click on the **green play button**
     ![run-project](images/run-project.png)
+
+## Create events
+
+1. Add `implements Listener` 
+
+## Random Command
+
+* To display messages in the console, just write `sout` and press **Enter** this will be automatically replaced by `System.out.println();`
+    ![sout](images/sout.png)
