@@ -2,34 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://docs.kangapi.fr/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://docs.kangapi.fr/posts/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://docs.kangapi.fr/posts/projects/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://docs.kangapi.fr/posts/projects/first-test-copie-2/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://docs.kangapi.fr/posts/projects/first-test-copie-3/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://docs.kangapi.fr/posts/projects/first-test-copie-4/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://docs.kangapi.fr/posts/projects/first-test-copie/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://docs.kangapi.fr/posts/projects/first-test/</loc>
-    <lastmod>2022-03-26T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://docs.kangapi.fr/posts/tutos/hugo-and-github-pages/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://docs.kangapi.fr/tags/java/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://docs.kangapi.fr/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://docs.kangapi.fr/posts/tutos/minecraft-plugin-memo/</loc>
@@ -38,11 +17,26 @@
     <loc>https://docs.kangapi.fr/tags/minecraft/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>https://docs.kangapi.fr/posts/</loc>
+    <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://docs.kangapi.fr/tags/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://docs.kangapi.fr/posts/tutos/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://docs.kangapi.fr/tags/among-us/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://docs.kangapi.fr/posts/projects/bot-discord/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://docs.kangapi.fr/tags/discord/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://docs.kangapi.fr/posts/projects/</loc>
+    <lastmod>2021-06-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://docs.kangapi.fr/archives/</loc>
   </url><url>

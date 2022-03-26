@@ -9,50 +9,14 @@
       <link>https://docs.kangapi.fr/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 26 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://docs.kangapi.fr/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://docs.kangapi.fr/posts/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test de projets</title>
-      <link>https://docs.kangapi.fr/posts/projects/first-test-copie-2/</link>
-      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
+      <title>Bot Discord Among Us et Minecraft</title>
+      <link>https://docs.kangapi.fr/posts/projects/bot-discord/</link>
+      <pubDate>Thu, 03 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://docs.kangapi.fr/posts/projects/first-test-copie-2/</guid>
-      <description>Guide to create a website with Hugo and hosting with Github Pages</description>
-    </item>
-    
-    <item>
-      <title>Test de projets</title>
-      <link>https://docs.kangapi.fr/posts/projects/first-test-copie-3/</link>
-      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.kangapi.fr/posts/projects/first-test-copie-3/</guid>
-      <description>Guide to create a website with Hugo and hosting with Github Pages</description>
-    </item>
-    
-    <item>
-      <title>Test de projets</title>
-      <link>https://docs.kangapi.fr/posts/projects/first-test-copie-4/</link>
-      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.kangapi.fr/posts/projects/first-test-copie-4/</guid>
-      <description>Guide to create a website with Hugo and hosting with Github Pages</description>
-    </item>
-    
-    <item>
-      <title>Test de projets</title>
-      <link>https://docs.kangapi.fr/posts/projects/first-test-copie/</link>
-      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.kangapi.fr/posts/projects/first-test-copie/</guid>
-      <description>Guide to create a website with Hugo and hosting with Github Pages</description>
-    </item>
-    
-    <item>
-      <title>Test de projets</title>
-      <link>https://docs.kangapi.fr/posts/projects/first-test/</link>
-      <pubDate>Sat, 26 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>https://docs.kangapi.fr/posts/projects/first-test/</guid>
-      <description>Guide to create a website with Hugo and hosting with Github Pages</description>
+      <guid>https://docs.kangapi.fr/posts/projects/bot-discord/</guid>
+      <description>Un bot discord pour donner des roles et des réactions !</description>
     </item>
     
   </channel>
