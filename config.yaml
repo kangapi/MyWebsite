@@ -1,4 +1,4 @@
-baseURL: "https://kangapi.github.io/MyWebsite/"
+baseURL: "https://docs.kangapi.fr/"
 title: Kangadocs
 paginate: 5
 theme: PaperMod
