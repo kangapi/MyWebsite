@@ -2,31 +2,31 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://kangapi.github.io/docs-V4/posts/hugo-and-github-pages/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/posts/hugo-and-github-pages/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/tags/java/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/tags/java/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/posts/minecraft-plugin-memo/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/posts/minecraft-plugin-memo/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/tags/minecraft/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/tags/minecraft/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/posts/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/posts/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/tags/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/tags/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/archives/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/archives/</loc>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/categories/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/categories/</loc>
   </url><url>
-    <loc>https://kangapi.github.io/docs-V4/search/</loc>
+    <loc>https://kangapi.github.io/MyWebsite/search/</loc>
   </url>
 </urlset>

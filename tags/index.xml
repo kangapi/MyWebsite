@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Kangadocs</title>
-    <link>https://kangapi.github.io/docs-V4/tags/</link>
+    <link>https://kangapi.github.io/MyWebsite/tags/</link>
     <description>Recent content in Tags on Kangadocs</description>
     <image>
-      <url>https://kangapi.github.io/docs-V4/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://kangapi.github.io/docs-V4/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://kangapi.github.io/MyWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://kangapi.github.io/MyWebsite/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kangapi.github.io/docs-V4/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 Dec 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://kangapi.github.io/MyWebsite/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Java</title>
-      <link>https://kangapi.github.io/docs-V4/tags/java/</link>
+      <link>https://kangapi.github.io/MyWebsite/tags/java/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://kangapi.github.io/docs-V4/tags/java/</guid>
+      <guid>https://kangapi.github.io/MyWebsite/tags/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Minecraft</title>
-      <link>https://kangapi.github.io/docs-V4/tags/minecraft/</link>
+      <link>https://kangapi.github.io/MyWebsite/tags/minecraft/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://kangapi.github.io/docs-V4/tags/minecraft/</guid>
+      <guid>https://kangapi.github.io/MyWebsite/tags/minecraft/</guid>
       <description></description>
     </item>
     
