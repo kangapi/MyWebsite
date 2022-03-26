@@ -74,7 +74,7 @@ params:
         hiddenInSingle: true # hide on single page
 
     editPost:
-        URL: "https://github.com/kangapi/kangapi-docs/content"
+        URL: "https://github.com/kangapi/MyWebsite/tree/main/content/"
         Text: "Suggest Changes" # edit text
         appendFilePath: true # to append file path to Edit link
 
