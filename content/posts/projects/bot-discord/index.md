@@ -27,7 +27,7 @@ Le préfixe du bot (le caractère avant la commande) est **?**.
 
 ## Le code
 
-Le code a été réalisé entierement en **Javascript** graçe à [discord.js](https://discord.js.org/), le code est répartie dans un seul fichier. \
+Le code a été réalisé entierement en **Javascript** graçe à [discord.js](https://discord.js.org/),tout le code est dans un seul fichier. \
 La première version est le bot pour un serveur **Among Us** voici [le repertoire **Github**](https://github.com/kangapi/Bot-Discord-AmongUs).\
 La deuxième est le bot pour un serveur **Minecraft** voici [le repertoire **Github**](https://github.com/kangapi/Bot-Discord-Minecraft).
 
