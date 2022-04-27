@@ -2,7 +2,7 @@
 author: "Kangapi"
 title: "Memo plugin minecraft"
 date: "2021-12-29"
-description: "Guide to create a website with Hugo and hosting with Github Pages"
+description: "Small tutoriel to create a new project"
 tags: ["Minecraft", "Java"]
 ShowToc: true
 ShowBreadCrumbs: false
